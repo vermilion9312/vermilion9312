@@ -1,10 +1,10 @@
-### Hi there 👋
+### BOJ Tier 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vermilion9312)](https://solved.ac/vermilion9312/)
 <!--
 **vermilion9312/vermilion9312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
